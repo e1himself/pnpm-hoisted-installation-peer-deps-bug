@@ -1,0 +1,15 @@
+{
+  "name": "pnpm-hoisted-installation-peer-deps-bug-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ivan Voskoboinyk <ivan@voskoboinyk.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react-with-styles": "^5.0.0"
+  }
+}
