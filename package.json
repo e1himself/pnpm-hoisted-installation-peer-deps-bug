@@ -10,6 +10,6 @@
   "author": "Ivan Voskoboinyk <ivan@voskoboinyk.com>",
   "license": "ISC",
   "dependencies": {
-    "react-with-styles": "^5.0.0"
+    "react-dates": "^21.8.0"
   }
 }
