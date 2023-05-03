@@ -1,7 +1,3 @@
-# pnpm-hoisted-installation-peer-deps-bug-demo
-
-https://github.com/pnpm/pnpm/issues/6497
-
 # Demo to reproduce 'pnpm` bug [#6497](https://github.com/pnpm/pnpm/issues/6497)
 
 See https://github.com/pnpm/pnpm/issues/6497
