@@ -18,7 +18,7 @@ Manually:
 ```
 pnpm init
 echo 'auto-install-peers=true' > .npmrc
-echo 'node-linker-hoisted' > .npmrc
+echo 'node-linker=hoisted' >> .npmrc
 pnpm add react-dates
 find node_modules -name react
 ```
